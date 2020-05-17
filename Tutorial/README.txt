@@ -13,6 +13,12 @@ Modeldef.TEMP.def: Tells the game what (dummy)sprites to replace with what 3d mo
 
 Player.txt: Player defination file. If a custom player is needed. https://zdoom.org/wiki/Classes:PlayerPawn // https://zdoom.org/wiki/Creating_new_player_classes
 
+SNDINFO.txt: Custom sounds defination. https://zdoom.org/wiki/SNDINFO
+
+MAPINFO.txt: In our case used if custom players are needed. https://zdoom.org/wiki/MAPINFO
+
+KEYCONF.txt: Sometimes needed for legacy weapon stuff. https://zdoom.org/wiki/KEYCONF
+
 README.txt: This file.
 
 Folder contents:
@@ -24,3 +30,6 @@ Sprites/
 Models/TEMP/
 	TEMP.MD3: Our exported 3d model (Example is Index controller model.)
 	TEMP.PNG: Texture for the model.
+
+Sounds/
+	Custom sounds. (Empty For now)

@@ -1,0 +1,7 @@
+// If custom player(s) are needed, they can be defined here.
+// https://zdoom.org/wiki/Creating_new_player_classes
+
+//GameInfo
+//{
+//   PlayerClasses = "MyPlayer", "DoomPlayer"
+//}

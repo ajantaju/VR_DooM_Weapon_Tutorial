@@ -7,20 +7,20 @@ Model TEMPLATE
    Offset 0.0 0.0 0.0
    ZOffset -5
 
-FrameIndex	TEMP	A	0	1 
-FrameIndex	TEMP	B	0	2
-FrameIndex	TEMP	C	0	3
-FrameIndex	TEMP	D	0	4
-FrameIndex	TEMP	E	0	5
-FrameIndex	TEMP	F	0	6
-FrameIndex	TEMP	G	0	7
-FrameIndex	TEMP	H	0	8
-FrameIndex	TEMP	I	0	9
-FrameIndex	TEMP	J	0	10
-FrameIndex	TEMP	K	0	11
-FrameIndex	TEMP	L	0	12
-FrameIndex	TEMP	M	0	13
-FrameIndex	TEMP	N	0	14
-FrameIndex	TEMP	O	0	15
+FrameIndex	TEMP	A	0	0
+FrameIndex	TEMP	B	0	1
+FrameIndex	TEMP	C	0	2
+FrameIndex	TEMP	D	0	3
+FrameIndex	TEMP	E	0	4
+FrameIndex	TEMP	F	0	5
+FrameIndex	TEMP	G	0	6
+FrameIndex	TEMP	H	0	7
+FrameIndex	TEMP	I	0	8
+FrameIndex	TEMP	J	0	9
+FrameIndex	TEMP	K	0	10
+FrameIndex	TEMP	L	0	11
+FrameIndex	TEMP	M	0	12
+FrameIndex	TEMP	N	0	13
+FrameIndex	TEMP	O	0	14
 
 }

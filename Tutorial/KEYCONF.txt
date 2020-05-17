@@ -1,0 +1,5 @@
+//This should not be used, but sometimes needs to if the original mod sets them!! https://zdoom.org/wiki/Adding_weaponsections
+
+//setslot 1 Custom_melee
+//setslot 2 Custom_pistol_01 Hi_Power_pistol_03
+//setslot etc...
