@@ -2,7 +2,7 @@ Basic VRweapon for GZDoom.
 
 File contents:
 
-Credit.txt: Credits go here, so people know who has done what models/sounds/rextures etc...
+Credit.txt: Credits go here, so people know who has done what models/sounds/textures etc...
 
 Decorate.txt: Tells the game what files to load. Here we add more weapon logic files to load. https://zdoom.org/wiki/DECORATE
 
