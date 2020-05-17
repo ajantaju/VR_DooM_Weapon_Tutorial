@@ -2,7 +2,7 @@
 
 101 The Start
 
-Clone the repo.
+Clone/download the repo.
 
 Change/add things.
 
