@@ -1,0 +1,36 @@
+If doing PBR textures you'll need GLDEFS: https://zdoom.org/wiki/GLDEFS
+
+//Start GLDEFS
+
+material texture "Models/REPLACE/REPLACE.png" { 
+    
+    normal "materials/REPLACE/REPLACE_n.png"
+    metallic "materials/REPLACE/REPLACE_m.png"
+	roughness "materials/REPLACE/REPLACE_r.png"
+	ao "materials/REPLACE/REPLACE_ao.png"
+//	brightmap "materials/REPLACE/REPLACE_bm.png"
+}
+
+//End GLDEFS
+
+
+Texture flattening tips:
+
+Normal maps, black and white inverse, overlay
+Metalness, multiply (in most times not used)
+Roughness, multiply
+AO, Overlay
+Base texture, normal
+
+Other things to remember:
+
+GlTF combined AO/R/M in RGB Channels (use GIMP to separate):
+RGB = occlusion/roughness/metallic
+
+Metalness map:
+Metal=white
+
+Some color preferences i used:
+wood= 350E00
+metal=181818
+
