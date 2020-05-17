@@ -1,0 +1,2 @@
+//#include player.txt //Include if needs a custom player
+#include Weapon01.txt
