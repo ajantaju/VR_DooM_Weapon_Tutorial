@@ -28,9 +28,14 @@ Text editor: https://notepad-plus-plus.org/
 Folder contents:
 
 Blend_models/
+
 	TEMPLATE:BLEND: Blender model template with Index controller for scale and positioning.
+	
 	README EXPORTING.txt: Info about exporting.
+	
 	TEXTURE TIPS.txt: PBR and Texture flattening tips.
 	
+	
 Tutorial/
+
 	Weapon example files for GZDoom VR ports.
